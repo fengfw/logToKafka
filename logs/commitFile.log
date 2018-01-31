@@ -1,0 +1,7 @@
+2018/01/31 16:08:48.751 INFO  commitFile.send -- CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2018/01/31 16:08:48.755 INFO  commitFile.send -- CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2018/01/31 16:08:48.785 INFO  commitFile.send -- CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2018/01/31 16:08:51.887 INFO  commitFile.send -- CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2018/01/31 16:08:51.890 INFO  commitFile.send -- CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2018/01/31 16:08:51.891 INFO  commitFile.send -- CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2018/01/31 16:08:54.933 INFO  commitFile.send -- CommitToKafka D:\test\bid-deal\20171211\201712111046.000.bid-deal.log

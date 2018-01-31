@@ -1,0 +1,7 @@
+2017/12/27 14:24:11 ERROR c.i.l.KafkaProducer.send -- FailToOpenFile D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/27 14:25:05 ERROR c.i.l.KafkaProducer.send -- FailToReadLine D:\test\bid-deal\20171211\201712111041.000.bid-deal.log Lines:1115
+2017/12/27 14:24:11 ERROR c.i.l.KafkaProducer.send -- FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/27 14:25:05 ERROR c.i.l.KafkaProducer.send -- FailToReadLine D:\test\bid-deal\20171211\201712111043.000.bid-deal.log Lines:1115
+2017/12/27 14:24:11 ERROR c.i.l.KafkaProducer.send -- FailToOpenFile D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/27 14:25:05 ERROR c.i.l.KafkaProducer.send -- FailToReadLine D:\test\bid-deal\20171211\201712111045.000.bid-deal.log Lines:1115
+2017/12/27 14:24:11 ERROR c.i.l.KafkaProducer.send -- FailToOpenFile D:\test\bid-deal\20171211\201712111046.000.bid-deal.log

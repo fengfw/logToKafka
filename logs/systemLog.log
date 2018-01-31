@@ -1,0 +1,79 @@
+2018/01/31 16:07:45.718 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2018/01/31 16:07:45.724 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2018/01/31 16:07:45.725 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2018/01/31 16:07:45.725 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2018/01/31 16:07:45.725 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2018/01/31 16:07:45.725 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2018/01/31 16:07:45.725 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2018/01/31 16:07:46.533 INFO  systemLog.startMonitorAndSend -- Exception 
+java.lang.NumberFormatException: For input string: "9092......"
+	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65) ~[na:1.8.0_151]
+	at java.lang.Integer.parseInt(Integer.java:580) ~[na:1.8.0_151]
+	at java.lang.Integer.parseInt(Integer.java:615) ~[na:1.8.0_151]
+	at scala.collection.immutable.StringLike$class.toInt(StringLike.scala:231) ~[scala-library-2.9.2.jar:na]
+	at scala.collection.immutable.StringOps.toInt(StringOps.scala:31) ~[scala-library-2.9.2.jar:na]
+	at kafka.client.ClientUtils$$anonfun$parseBrokerList$1.apply(ClientUtils.scala:102) ~[kafka_2.9.2-0.8.1.1.jar:na]
+	at kafka.client.ClientUtils$$anonfun$parseBrokerList$1.apply(ClientUtils.scala:97) ~[kafka_2.9.2-0.8.1.1.jar:na]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:233) ~[scala-library-2.9.2.jar:na]
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:233) ~[scala-library-2.9.2.jar:na]
+	at scala.collection.mutable.ResizableArray$class.foreach(ResizableArray.scala:60) ~[scala-library-2.9.2.jar:na]
+	at scala.collection.mutable.ArrayBuffer.foreach(ArrayBuffer.scala:47) ~[scala-library-2.9.2.jar:na]
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:233) ~[scala-library-2.9.2.jar:na]
+	at scala.collection.mutable.ArrayBuffer.map(ArrayBuffer.scala:47) ~[scala-library-2.9.2.jar:na]
+	at kafka.client.ClientUtils$.parseBrokerList(ClientUtils.scala:97) ~[kafka_2.9.2-0.8.1.1.jar:na]
+	at kafka.producer.BrokerPartitionInfo.<init>(BrokerPartitionInfo.scala:32) ~[kafka_2.9.2-0.8.1.1.jar:na]
+	at kafka.producer.async.DefaultEventHandler.<init>(DefaultEventHandler.scala:41) ~[kafka_2.9.2-0.8.1.1.jar:na]
+	at kafka.producer.Producer.<init>(Producer.scala:59) ~[kafka_2.9.2-0.8.1.1.jar:na]
+	at kafka.javaapi.producer.Producer.<init>(Producer.scala:26) ~[kafka_2.9.2-0.8.1.1.jar:na]
+	at com.fengfw.log2kafka.SendProcess.<init>(SendProcess.java:37) ~[classes/:na]
+	at com.fengfw.log2kafka.Log2KafkaTask.startMonitorAndSend(Log2KafkaTask.java:35) [classes/:na]
+	at com.fengfw.log2kafka.Log2KafkaTask.main(Log2KafkaTask.java:17) [classes/:na]
+2018/01/31 16:08:47.953 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2018/01/31 16:08:47.959 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2018/01/31 16:08:47.959 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2018/01/31 16:08:47.959 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2018/01/31 16:08:47.959 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2018/01/31 16:08:47.960 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2018/01/31 16:08:47.960 INFO  systemLog.<init> -- InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2018/01/31 16:08:48.610 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111042.000.bid-deal.log count:1000
+2018/01/31 16:08:48.613 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111040.000.bid-deal.log count:1000
+2018/01/31 16:08:48.667 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111040.000.bid-deal.log count:2000
+2018/01/31 16:08:48.669 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111041.000.bid-deal.log count:1000
+2018/01/31 16:08:48.671 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111042.000.bid-deal.log count:2000
+2018/01/31 16:08:48.693 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111040.000.bid-deal.log count:3000
+2018/01/31 16:08:48.695 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111041.000.bid-deal.log count:2000
+2018/01/31 16:08:48.699 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111042.000.bid-deal.log count:3000
+2018/01/31 16:08:48.718 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111040.000.bid-deal.log count:4000
+2018/01/31 16:08:48.725 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111042.000.bid-deal.log count:4000
+2018/01/31 16:08:48.726 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111040.000.bid-deal.log count:4357
+2018/01/31 16:08:48.751 INFO  systemLog.send -- CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2018/01/31 16:08:48.754 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111042.000.bid-deal.log count:4483
+2018/01/31 16:08:48.755 INFO  systemLog.send -- CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2018/01/31 16:08:48.756 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111041.000.bid-deal.log count:3000
+2018/01/31 16:08:48.774 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111041.000.bid-deal.log count:4000
+2018/01/31 16:08:48.785 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111041.000.bid-deal.log count:4692
+2018/01/31 16:08:48.785 INFO  systemLog.send -- CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2018/01/31 16:08:51.786 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111044.000.bid-deal.log count:1000
+2018/01/31 16:08:51.789 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111043.000.bid-deal.log count:1000
+2018/01/31 16:08:51.810 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111043.000.bid-deal.log count:2000
+2018/01/31 16:08:51.812 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111044.000.bid-deal.log count:2000
+2018/01/31 16:08:51.818 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111045.000.bid-deal.log count:1000
+2018/01/31 16:08:51.838 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111045.000.bid-deal.log count:2000
+2018/01/31 16:08:51.852 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111043.000.bid-deal.log count:3000
+2018/01/31 16:08:51.865 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111044.000.bid-deal.log count:3000
+2018/01/31 16:08:51.866 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111045.000.bid-deal.log count:3000
+2018/01/31 16:08:51.876 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111043.000.bid-deal.log count:4000
+2018/01/31 16:08:51.887 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111043.000.bid-deal.log count:4482
+2018/01/31 16:08:51.887 INFO  systemLog.send -- CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2018/01/31 16:08:51.888 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111044.000.bid-deal.log count:4000
+2018/01/31 16:08:51.889 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111045.000.bid-deal.log count:4000
+2018/01/31 16:08:51.890 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111044.000.bid-deal.log count:4106
+2018/01/31 16:08:51.890 INFO  systemLog.send -- CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2018/01/31 16:08:51.891 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111045.000.bid-deal.log count:4085
+2018/01/31 16:08:51.891 INFO  systemLog.send -- CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2018/01/31 16:08:54.899 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111046.000.bid-deal.log count:1000
+2018/01/31 16:08:54.909 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111046.000.bid-deal.log count:2000
+2018/01/31 16:08:54.920 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111046.000.bid-deal.log count:3000
+2018/01/31 16:08:54.932 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111046.000.bid-deal.log count:4000
+2018/01/31 16:08:54.933 INFO  systemLog.send -- CumulativeNumber D:\test\bid-deal\20171211\201712111046.000.bid-deal.log count:4030
+2018/01/31 16:08:54.933 INFO  systemLog.send -- CommitToKafka D:\test\bid-deal\20171211\201712111046.000.bid-deal.log

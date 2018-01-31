@@ -1,0 +1,3 @@
+2018/01/15 10:37:16.073 INFO  commitFile.send -- CommitToKafka D:\test\log2kafka\src\test\resources\test_bid_deal\20171211\201712111040.000.bid-deal.log
+2018/01/15 10:37:16.073 INFO  commitFile.send -- CommitToKafka D:\test\log2kafka\src\test\resources\test_bid_deal\20171211\201712111041.000.bid-deal.log
+2018/01/15 10:37:16.073 INFO  commitFile.send -- CommitToKafka D:\test\log2kafka\src\test\resources\test_bid_deal\20171211\201712111042.000.bid-deal.log

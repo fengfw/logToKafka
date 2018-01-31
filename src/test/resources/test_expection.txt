@@ -1,0 +1,1441 @@
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:08:05 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:05 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:05 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:08:06 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:08:28 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:357
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:692
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:482
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:106
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:85
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:30
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 14:20:22 ERROR c.i.l.KafkaProducer.send - FileToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:21:33 ERROR c.i.l.KafkaProducer.send - FileToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:27:06 ERROR c.i.l.KafkaProducer.send - FileToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:32:40 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:34:00 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:34:06 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:36:37 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 15:15:16 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 15:17:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 15:20:44 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:20:44 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:27:31 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:27:31 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:31:23 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:31:23 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:34:24 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:34:24 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:35:34 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:35:34 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:40:20 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:40:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:40:53 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:40:53 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:44:45 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:44:45 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:58:30 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:58:30 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:02:35 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 16:10:13 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 16:12:01 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 16:12:01 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:22:39 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 16:22:39 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:29:28 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:16
+2017/12/26 16:29:28 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:30:41 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:16
+2017/12/26 16:30:41 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:31:23 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:12
+2017/12/26 16:31:23 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:31:46 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 16:50:01 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:13:06 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:13:06 WARN  c.i.l.KafkaProducer.send - java.io.PrintStream@4cc451f2
+2017/12/26 17:13:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:13:41 WARN  c.i.l.KafkaProducer.send - java.io.PrintStream@5b239d7d
+2017/12/26 17:15:44 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:15:44 ERROR c.i.l.KafkaProducer.send - Exception
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:53) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 17:18:57 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:18:57 ERROR c.i.l.KafkaProducer.send - Exception
+2017/12/26 17:19:44 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:19:44 ERROR c.i.l.KafkaProducer.send - Exception
+2017/12/26 17:20:04 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:20:04 ERROR c.i.l.KafkaProducer.send - Exception
+2017/12/26 17:20:19 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:20:19 ERROR c.i.l.KafkaProducer.send - Exception
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 17:31:49 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:31:49 ERROR c.i.l.KafkaProducer.send - Exception java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+2017/12/26 18:00:52 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:00:52 ERROR c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:02:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:02:41 ERROR c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:05:07 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:05:07 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:12:23 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:12:23 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:13:31 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:13:31 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:13:50 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:13:50 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:14:14 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:14:14 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:40:50 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:40:50 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:44:14 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:44:14 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:44:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:44:41 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:357
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:692
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:482
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:106
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:85
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:30
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:357
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:692
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:482
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:106
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:85
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:53 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:53 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:30
+2017/12/26 18:46:53 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:01:32 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:08:05 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:05 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:05 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:08:06 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:08:28 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:08:29 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:357
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:692
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:482
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 14:09:19 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:106
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:85
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:30
+2017/12/26 14:09:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 14:20:22 ERROR c.i.l.KafkaProducer.send - FileToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:20:22 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:21:33 ERROR c.i.l.KafkaProducer.send - FileToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:27:06 ERROR c.i.l.KafkaProducer.send - FileToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:32:40 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:34:00 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:34:06 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 14:34:06 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 14:36:37 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 15:15:16 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 15:17:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 15:20:44 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:20:44 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:27:31 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:27:31 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:31:23 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:31:23 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:34:24 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:34:24 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:35:34 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:35:34 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:40:20 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:40:20 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:40:53 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:40:53 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:44:45 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:44:45 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 15:58:30 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 15:58:30 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:02:35 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 16:10:13 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 16:12:01 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 16:12:01 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:22:39 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:9
+2017/12/26 16:22:39 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:29:28 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:16
+2017/12/26 16:29:28 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:30:41 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:16
+2017/12/26 16:30:41 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:31:23 INFO  c.i.l.KafkaProducer.send - D:\test\test_listen_file.txt batch:12
+2017/12/26 16:31:23 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\test_listen_file.txt
+2017/12/26 16:31:46 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 16:50:01 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:13:06 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:13:06 WARN  c.i.l.KafkaProducer.send - java.io.PrintStream@4cc451f2
+2017/12/26 17:13:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:13:41 WARN  c.i.l.KafkaProducer.send - java.io.PrintStream@5b239d7d
+2017/12/26 17:15:44 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:15:44 ERROR c.i.l.KafkaProducer.send - Exception
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:53) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 17:18:57 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:18:57 ERROR c.i.l.KafkaProducer.send - Exception
+2017/12/26 17:19:44 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:19:44 ERROR c.i.l.KafkaProducer.send - Exception
+2017/12/26 17:20:04 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:20:04 ERROR c.i.l.KafkaProducer.send - Exception
+2017/12/26 17:20:19 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:20:19 ERROR c.i.l.KafkaProducer.send - Exception
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 17:31:49 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 17:31:49 ERROR c.i.l.KafkaProducer.send - Exception java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+2017/12/26 18:00:52 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:00:52 ERROR c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:02:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:02:41 ERROR c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:05:07 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:05:07 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:12:23 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:12:23 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:13:31 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:13:31 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:13:50 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:13:50 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:14:14 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:14:14 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:40:50 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:40:50 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:44:14 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:44:14 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:44:41 ERROR c.i.l.KafkaProducer.send - FailToOpenFile D:\test\bid-deal\20171211\201712111042.000.bid-deal.l
+2017/12/26 18:44:41 WARN  c.i.l.KafkaProducer.send - Exception 
+java.io.FileNotFoundException: D:\test\bid-deal\20171211\201712111042.000.bid-deal.l (系统找不到指定的文件。)
+	at java.io.FileInputStream.open0(Native Method) ~[na:1.8.0_151]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[na:1.8.0_151]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[na:1.8.0_151]
+	at com.ipinyou.log2kafka.KafkaProducer.send(KafkaProducer.java:39) ~[classes/:na]
+	at com.ipinyou.log2kafka.KafkaProducerTest.sendTestExpection1(KafkaProducerTest.java:52) [test-classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_151]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_151]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_151]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_151]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.rules.ExpectedException$ExpectedExceptionStatement.evaluate(ExpectedException.java:239) [junit-4.12.jar:4.12]
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:68) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:47) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:242) [junit-rt.jar:na]
+	at com.intellij.rt.execution.junit.JUnitStarter.main(JUnitStarter.java:70) [junit-rt.jar:na]
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 18:44:41 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:357
+2017/12/26 18:46:13 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:692
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:482
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:106
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:85
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:30
+2017/12/26 18:46:14 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.FileListener.toInitial - InitialWaitQueue D:\test\bid-deal\20171211\201712111046.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111040.000.bid-deal.log batch:357
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111040.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111041.000.bid-deal.log batch:692
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111041.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111042.000.bid-deal.log batch:483
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111042.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111043.000.bid-deal.log batch:482
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111043.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111044.000.bid-deal.log batch:106
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111044.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111045.000.bid-deal.log batch:85
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - CommitToKafka D:\test\bid-deal\20171211\201712111045.000.bid-deal.log
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:52 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:53 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:1000
+2017/12/26 18:46:53 INFO  c.i.l.KafkaProducer.send - D:\test\bid-deal\20171211\201712111046.000.bid-deal.log batch:30

@@ -1,0 +1,64 @@
+<configuration>
+    <property name="LOG_HOME" value="logs" />
+    <!--输出console-->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <!--输出格式-->
+        <encoder>
+            <!--格式化输出:%d表示日期，%thread表示线程名，%-5level:级别从左显示5个字符宽度,%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy/MM/dd HH:mm:ss.SSS} %-5level %logger{5}.%M -- %msg%n</pattern>
+        </encoder>
+    </appender>
+    <!--日志输出到文件-->
+    <appender name="systemLogFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!--日志输出的文件名，路径项目根目录-->
+        <file>${LOG_HOME}/systemLog.log</file>
+        <!--时间回滚，当天的记录记录在当天的已时间命名的文件中-->
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/%d{yyyyMMdd}.systemLog.log</fileNamePattern>
+            <!--&lt;!&ndash; 历史数据保留时长 &ndash;&gt;-->
+            <!--<maxHistory>60</maxHistory>-->
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy/MM/dd HH:mm:ss.SSS} %-5level %logger{5}.%M -- %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--文件提交情况输出-->
+    <appender name="commitFileAppender" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_HOME}/commitFile.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_HOME}/%d{yyyyMMdd}.commitFile.log</fileNamePattern>
+        </rollingPolicy>
+        <encoder>
+            <pattern>%d{yyyy/MM/dd HH:mm:ss.SSS} %-5level %logger{5}.%M -- %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!--<appender name="errorFileAppender" class="ch.qos.logback.core.FileAppender">-->
+    <!--<file>${LOG_HOME}/error.log</file>-->
+    <!--<encoder>-->
+    <!--<pattern>%d{yyyy/MM/dd HH:mm:ss.SSS} %-5level %logger{5}.%M &#45;&#45; %msg%n</pattern>-->
+    <!--</encoder>-->
+    <!--<filter class="ch.qos.logback.classic.filter.LevelFilter">&lt;!&ndash; 只打印错误日志 &ndash;&gt;-->
+    <!--<level>ERROR</level>-->
+    <!--<onMatch>ACCEPT</onMatch>-->
+    <!--<onMismatch>DENY</onMismatch>-->
+    <!--</filter>-->
+    <!--</appender>-->
+
+
+    <logger name="systemLog" level="info" >
+        <appender-ref ref="systemLogFileAppender" />
+    </logger>
+
+    <logger name="commitFile" level="info" >
+    <appender-ref ref="commitFileAppender" />
+    </logger>
+
+
+    <!-- 日志输出规则 根据当前ROOT 级别，日志输出时，级别高于root默认的级别时才会输出 -->
+    <!-- 打印info级别日志及以上级别日志 -->
+    <root level="info">
+        <appender-ref ref="STDOUT" />
+    </root>
+</configuration>
