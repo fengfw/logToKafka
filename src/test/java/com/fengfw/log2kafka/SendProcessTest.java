@@ -41,7 +41,9 @@ public class SendProcessTest {
 
     @Test
     public void sendTest() throws Exception {
+        //模拟则报空指针，若用已有配置，则测试会向kafka发送东西  有问题，还需修改！！！
         Configuration configuration=Mockito.mock(Configuration.class);
+        
         ProducerConfig producerConfig=Mockito.mock(ProducerConfig.class);
         Producer producer=Mockito.mock(Producer.class);
         SendProcess sendProcess=Mockito.mock(SendProcess.class);
@@ -71,13 +73,4 @@ public class SendProcessTest {
 //        kafkaProducer.send(file,0);
 //    }
 
-    /**
-     * 需在send方法while中加入br.close()，可使测试通过
-     */
-//    @Test
-//    public void sendTestExpection2() throws IOException {
-//        File file=new File("D:/test/test_expection.txt");
-//        thrown.expect(IOException.class);
-//        kafkaProducer.send(file);
-//    }
 }
