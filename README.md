@@ -1,0 +1,9 @@
+fileToKakfa这个项目主要涉及commons-io、logback、saxparser、多线程等
+
+commons-io主要包括FileListener、FileAlterationMonitor、FileAlterationObserver，其中FileListener是继承FileAlterationListenerAdaptor，并且针对监控目录，有队列初始化或宕机重启后将未提交到Kafka的日志文件添加到队列中等
+
+logback主要配置按需求进行日志输出的内容、格式等，这里主要生成SystemLog和CommitLog，前者是系统日志，后者主要这对提交情况进行记录，方便系统出现问题时能针对是否提交的日志文件进行区分和发送
+
+saxparser主要应用于解析XML文件，针对配置内容较多时使用，这里将写的给注释掉，有需要可以查看使用，本项目主要使用propertier文件进行配置加载
+
+多线程主要是利用多个线程将需要待提交的日志文件并行发送到Kafka中，提升效率
