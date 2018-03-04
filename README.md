@@ -1,4 +1,5 @@
-fileToKakfa这个项目主要涉及commons-io、logback、saxparser、多线程等
+#fileToKakfa
+这里主要涉及commons-io、logback、saxparser、多线程等
 
 commons-io主要包括FileListener、FileAlterationMonitor、FileAlterationObserver，其中FileListener是继承FileAlterationListenerAdaptor，并且针对监控目录，有队列初始化或宕机重启后将未提交到Kafka的日志文件添加到队列中等
 
