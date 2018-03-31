@@ -1,4 +1,4 @@
-# fileToKakfa
+# logToKakfa
 
 这里主要涉及commons-io、logback、saxparser、多线程等
 
@@ -9,3 +9,5 @@ logback主要配置按需求进行日志输出的内容、格式等，这里主�
 saxparser主要应用于解析XML文件，针对配置内容较多时使用，这里将写的给注释掉，有需要可以查看使用，本项目主要使用propertier文件进行配置加载
 
 多线程主要是利用多个线程将需要待提交的日志文件并行发送到Kafka中，提升效率
+
+另外，在test目录下，主要利用junit、powermock、groboutils等针大部分类进行单元测试，其中groboutils用于多线程测试
