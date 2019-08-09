@@ -5,9 +5,7 @@
         <!--<topic>bid_deal_test</topic>-->
         <!--<monitorInteval>1000</monitorInteval>-->
         <!--<kafkaBroker>metadata.broker.list</kafkaBroker>-->
-        <!--<kafkaBrokerList>192.168.145.201:9092,192.168.145.202:9092,192.168.145.203:9092,192.168.145.204:9092,-->
-            <!--192.168.145.205:9092,192.168.145.206:9092,192.168.145.207:9092,192.168.145.208:9092,-->
-            <!--192.168.145.209:9092,192.168.145.210:9092</kafkaBrokerList>-->
+        <!--<kafkaBrokerList>192.168.145.201:9092,192.168.145.202:9092</kafkaBrokerList>-->
         <!--<kafkaAcks>request.required.acks</kafkaAcks>-->
         <!--<kafkaAcksValue>1</kafkaAcksValue>-->
         <!--<kafkaSerializer>serializer.class</kafkaSerializer>-->
